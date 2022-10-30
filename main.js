@@ -58,7 +58,7 @@ console.log(keyPressed);
 if(keyPressed == '71') 
 	{
 		block_x = 10;
-		new_image("http://www.textures4photoshop.com/tex/thumbs/free-transparent-grass-texture-seamless-PNG-thumb43.png");
+		new_image("https://www.kindpng.com/picc/m/12-127575_green-grass-line-art-hd-png-download.png");
 		console.log("Let's Play! You Have Made The Grass/Ground.");
 
 	}
